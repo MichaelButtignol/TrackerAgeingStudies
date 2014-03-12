@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+#Trucs 
+*.d
+*~
+*.cxx
+*.txt
+*.root
+*.eps

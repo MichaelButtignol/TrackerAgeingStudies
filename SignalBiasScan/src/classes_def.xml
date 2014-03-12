@@ -1,0 +1,6 @@
+<lcgdict>
+ <class name="TreeHit"/>
+ <class name="TreeFullHit"/>
+ <class name="TreeTrack"/>
+ <class name="TreeEvent"/>
+</lcgdict>
